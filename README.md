@@ -105,7 +105,9 @@ Software Engineer • Data Analyst • AI Enthusiast
 - 🎬 AI-based multimedia processing and automation tools.
 - 📊 Data analytics and intelligent recommendation systems.
 
-\<p align="center">   \<b>Building projects that turn ideas into practical solutions. 🚀\</b> \</p>
+<p align="center">   
+<b>Building projects that turn ideas into practical solutions. 🚀<\b> 
+<\p>
 
 
 ---
@@ -148,29 +150,10 @@ Software Engineer • Data Analyst • AI Enthusiast
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/lakshyakansal/lakshyakansal/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lakshyakansal&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
 
 <h3 align="center">
 
 ⭐ Thanks for visiting my profile! ⭐
 
 </h3>
----
+
