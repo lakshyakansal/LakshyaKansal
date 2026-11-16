@@ -18,8 +18,37 @@ Software Engineer • Data Analyst • AI Enthusiast
 - 📊 Two internships in my back pocket — **Artificial Intelligence Intern** and **Data Analytics & PowerBI**
 - 🌱 Sharpening skills in Python, SQL, RAG pipelines,Database and system design
 - 🎯 Seeking entry-level Software Engineering / AI Engineering roles with genuine mentorship and real problems to solve
-- ⚡ Fun fact: • **1st Place** — Fastest Expression Evaluator 2K23 (among 220 students)
-  • **1st Place** — Algorithm Code Chalet 2K24 (among 70 students)
-  • I've picked up **2nd/3rd place** finishes in coding and presentation competitions
+- ⚡ Fun fact: **2nd/3rd place** finishes in coding and presentation competitions
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakshya-kansal-a8682a325" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/lakshyakansal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:lakshyakansal92@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/lakshyakansal/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+  
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,php,mysql,react,git,github,vscode" />
+</p>
+
+**AI/ML:** RAG · FAISS · Ollama · FastAPI · Prompt Engineering
+**Data:** Data Cleaning · Analysis · Visualization · Data Mining
+
+---
 
 ---
