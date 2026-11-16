@@ -51,4 +51,126 @@ Software Engineer • Data Analyst • AI Enthusiast
 
 ---
 
+# 🚀 Featured Projects
+## 🚀 Featured Projects
+
+### 🤖 AI, Machine Learning & Generative AI
+
+| Project                                                                                                                | Description                                                                                                                  | Tech Stack                             |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| 🧠 [TruthLens AI](https://github.com/lakshyakansal/TruthLens-AI-LLM-Hallucination-Detection-and-Verification-Platform) | LLM hallucination detection and verification platform that evaluates generated claims against reference evidence.            | Python, FastAPI, NLP                   |
+| 🎬 [HindiDub AI](https://github.com/lakshyakansal/hindidub-ai)                                                         | AI-powered video dubbing platform featuring Hindi translation, voice cloning, and synchronized audio processing.             | Python, FastAPI, Whisper, NLLB, FFmpeg |
+| 🎨 [ToonStory AI](https://github.com/lakshyakansal/toonstory-ai)                                                       | Transforms story ideas into children's storyboards and cartoon-style videos.                                                 | Python, FastAPI, AI                    |
+| ⚖️ [Indian Corporate Law AI](https://github.com/lakshyakansal/indian-corporate-law-ai)                                 | AI-powered legal assistant using RAG, FAISS, and local LLMs for legal information retrieval.                                 | Python, RAG, FAISS, Mistral, Ollama    |
+| 🔌 [FreeLLM API](https://github.com/lakshyakansal/freellmapi)                                                          | Unified API gateway providing access to multiple free LLM providers, model endpoints, smart routing, and automatic failover. | TypeScript, LLM APIs                   |
+
+### 🌐 Full-Stack Web Development
+
+| Project                                                                                                         | Description                                                                                                             | Tech Stack                           |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 📄 [DocuFlow](https://github.com/lakshyakansal/DocuFlow-PDF-Word-Converter)                                     | Secure document conversion platform for PDF-to-Word and Word-to-PDF conversion.                                         | HTML, CSS, JavaScript, Backend       |
+| 🏙️ [DistrictX](https://github.com/lakshyakansal/DistrictX)                                                     | City discovery and booking platform to explore local experiences, services, and activities.                             | JavaScript                           |
+| 🎬 [CineBook](https://github.com/lakshyakansal/CineBook)                                                        | Movie ticket booking platform with authentication, movie discovery, interactive seat selection, and booking management. | Java, Spring Boot, React, PostgreSQL |
+| 📚 [BookVerse](https://github.com/lakshyakansal/BookVerse-Read-Publish-Books)                                   | Community-driven platform where users can publish, discover, and read books online.                                     | Python, Flask, PostgreSQL            |
+| 👥 [BlueBook Social](https://github.com/lakshyakansal/bluebook-social)                                          | Full-stack social platform featuring discovery, search, and community feeds.                                            | JavaScript                           |
+| 🏠 [PG Management System](https://github.com/lakshyakansal/PG-Management-System)                                | Web-based platform for managing PG accommodations and streamlining daily operations.                                    | PHP, MySQL                           |
+| 📖 [Library Management System](https://github.com/lakshyakansal/library-management-system)                      | Library management application with book operations, issue tracking, and database integration.                          | Python, FastAPI, PostgreSQL, SQLite  |
+| 💰 [Fee Management System](https://github.com/lakshyakansal/Fee-Management-System)                              | Java-based student fee management system with payment records and MySQL integration.                                    | Java, MySQL                          |
+| 🎓 [College Search Portal](https://github.com/lakshyakansal/Search-For-College-College-Search-Discovery-Portal) | College discovery platform for searching institutions by course and city.                                               | PHP, MySQL                           |
+| 🚆 [Railway Reservation System](https://github.com/lakshyakansal/IRCTC-Clone---Railway-Reservation-System-)     | Web-based railway reservation platform for train search and ticket booking management.                                  | PHP, MySQL                           |
+
+### 💻 Programming & Problem-Solving Projects
+
+| Project                                                                            | Description                                                                 | Tech Stack               |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------ |
+| 🔢 [Sudoku Master](https://github.com/lakshyakansal/sudoku-master)                 | Modern interactive Sudoku game with a clean user interface.                 | React, JavaScript        |
+| ❌ [Tic-Tac-Toe AI](https://github.com/lakshyakansal/Tic-Tac-Toe)                   | Intelligent Tic-Tac-Toe game featuring an AI opponent.                      | Python                   |
+| 🤖 [CodSoft Chatbot](https://github.com/lakshyakansal/codsoft_taskno1)             | Console-based chatbot using keyword matching and Python's standard library. | Python                   |
+| 🧠 [AI Tic-Tac-Toe](https://github.com/lakshyakansal/codsoft_taskno2)              | Unbeatable Tic-Tac-Toe AI using the Minimax algorithm.                      | Python, AI               |
+| 🎯 [Movie Recommendation System](https://github.com/lakshyakansal/codsoft_taskno4) | Recommends movies using user similarity and content-based filtering.        | Python, Machine Learning |
+
+### 📊 Data Analytics
+
+| Project                                                                                                            | Description                                                                                            | Tech Stack               |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------ |
+| 📈 [Data Analytics with Power BI](https://github.com/lakshyakansal/CS-_-data-analytics-powerbi_lakshyakansal-_-v1) | Data analytics project focused on exploring datasets and presenting insights through visual reporting. | Power BI, Data Analytics |
+
+---
+
+### 💡 What I Love Building
+
+- 🤖 AI-powered applications using LLMs, RAG, and intelligent automation.
+- 🌐 Scalable full-stack applications and modern web platforms.
+- ⚙️ Backend systems, REST APIs, and database-driven solutions.
+- 🎬 AI-based multimedia processing and automation tools.
+- 📊 Data analytics and intelligent recommendation systems.
+
+\<p align="center">   \<b>Building projects that turn ideas into practical solutions. 🚀\</b> \</p>
+
+
+---
+
+# 🏆 Achievements
+
+🏅 1st Rank — Fastest Expression Evaluator 2K23 (among 220 students)
+
+🏅 1st Rank — Algorithm Code Chalet 2K24 (among 70 students)
+
+🏅 1st Rank — SilverZone Olympiad, Computer Science 2K20 (among 120 students)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshyakansal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakansal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=lakshyakansal&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyakansal&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/lakshyakansal/lakshyakansal/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lakshyakansal&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
 ---
