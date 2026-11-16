@@ -106,8 +106,8 @@ Software Engineer • Data Analyst • AI Enthusiast
 - 📊 Data analytics and intelligent recommendation systems.
 
 <p align="center">   
-<b>Building projects that turn ideas into practical solutions. 🚀<\b> 
-<\p>
+<b>Building projects that turn ideas into practical solutions. 🚀/<\b> 
+/<\p>
 
 
 ---
