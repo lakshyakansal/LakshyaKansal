@@ -18,7 +18,7 @@ Software Engineer • Data Analyst • AI Enthusiast
 - 📊 Two internships in my back pocket — **Artificial Intelligence Intern** and **Data Analytics & PowerBI**
 - 🌱 Sharpening skills in Python, SQL, RAG pipelines,Database and system design
 - 🎯 Seeking entry-level Software Engineering / AI Engineering roles with genuine mentorship and real problems to solve
-- ⚡ Fun fact: **2nd/3rd place** finishes in coding and presentation competitions
+- ⚡ Fun fact: **1st/2nd place** finishes in coding and presentation competitions
 
 ### 🌐 Connect With Me
 
