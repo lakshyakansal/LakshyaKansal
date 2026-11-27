@@ -131,13 +131,15 @@ Building projects that turn ideas into practical solutions. 🚀
 
 ---
 
-# 📊 GitHub Activity
+<h2 align="left">📊 GitHub Activity</h2>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyakansal&theme=tokyo-night&hide_border=true"/>
-
-</p>
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyakansal&theme=github-compact"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</div>
 
 ---
 
