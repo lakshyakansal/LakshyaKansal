@@ -125,11 +125,6 @@ Building projects that turn ideas into practical solutions. 🚀
 
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshyakansal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakansal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyakansal&theme=tokyonight&hide_border=true" />
 </p>
 
