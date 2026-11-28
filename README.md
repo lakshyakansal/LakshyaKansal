@@ -123,11 +123,6 @@ Building projects that turn ideas into practical solutions. 🚀
 # 📈 GitHub Stats
 
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=lakshyakansal&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshyakansal&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -144,7 +139,7 @@ Building projects that turn ideas into practical solutions. 🚀
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KritikKaushik&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyakansal&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
